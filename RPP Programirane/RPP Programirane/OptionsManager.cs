@@ -32,5 +32,13 @@ namespace RPP_Programirane
             var result = arr.Where(x => x % 2 == 0).ToArray();
             Console.WriteLine(string.Join(", ", arr));
         }
+        public static int SumOfEvensNum(int[] arr)
+        {
+            return arr.Where(x => x % 2 == 0).Sum();
+        }
+        public static int CountOfEvensNum(int[] arr)
+        {
+            return arr.Where(x => x % 2 == 0).Count();
+        }
     }
 }

@@ -13,8 +13,10 @@ namespace RPP_Programirane
                 arr[i] = int.Parse(Console.ReadLine());            
             }
             Console.WriteLine("Count ="+OptionsManager.CountLess100(arr));
-            Console.WriteLine("Sum ="+OptionsManager.MaxNum(arr));
+            Console.WriteLine("Max ="+OptionsManager.MaxNum(arr));
             arr = OptionsManager.ReverseArr(arr);
+            Console.WriteLine("Sum ="+OptionsManager.SumOfEvensNum(arr));
+            Console.WriteLine("Count =" + OptionsManager.CountOfEvensNum(arr));
             OptionsManager.PrintEvensNum(arr);
             OptionsManager.PrintArr(arr);
             }
