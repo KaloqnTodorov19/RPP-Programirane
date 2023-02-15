@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPP Programirane 2", "RPP Programirane 2\RPP Programirane 2.csproj", "{2E80AB4E-9DB5-4CF7-BE04-58CA7B423960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPP Programirane 3", "RPP Programirane 3\RPP Programirane 3.csproj", "{B2A074F8-74B3-4181-95B8-149CEFA328D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E80AB4E-9DB5-4CF7-BE04-58CA7B423960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E80AB4E-9DB5-4CF7-BE04-58CA7B423960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E80AB4E-9DB5-4CF7-BE04-58CA7B423960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E80AB4E-9DB5-4CF7-BE04-58CA7B423960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A074F8-74B3-4181-95B8-149CEFA328D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A074F8-74B3-4181-95B8-149CEFA328D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A074F8-74B3-4181-95B8-149CEFA328D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A074F8-74B3-4181-95B8-149CEFA328D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {639D8C93-7469-4E1A-985A-E4EDE2DB627F}
+	EndGlobalSection
+EndGlobal
